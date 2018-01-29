@@ -8,6 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class JIRASample {
 
 	public static void main(String[] args) {
-		System.out.println("Rajamohan Raju");
+		System.out.println("Branch-1 code");
 	}
 }
